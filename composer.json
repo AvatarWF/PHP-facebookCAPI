@@ -1,0 +1,6 @@
+{
+    "require": {
+        "facebook/php-business-sdk": "^21.0",
+        "zircote/swagger-php": "^4.11"
+    }
+}
